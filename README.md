@@ -19,7 +19,7 @@ The primary goal of Flutter JokenPo is to provide a fun and engaging game experi
 
 ### Light & Dark Mode  
 <p>
-  <img src="Flutter-JokenPo/images/lightMode.png" width="250">
+  <img src="Flutter-JokenPo/images/lightMode.png" width="250"> &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="Flutter-JokenPo/images/darkMode.png" width="250">
 </p>
 
