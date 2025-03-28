@@ -24,7 +24,7 @@ The primary goal of Flutter JokenPo is to provide a fun and engaging game experi
 </p>
 
 ### Watch the Application in Action:
-https://github.com/user-attachments/assets/900fe0c4-df2b-4f5f-a08e-3b2cb21a83c6
+[Click here to watch the video](https://github.com/user-attachments/assets/900fe0c4-df2b-4f5f-a08e-3b2cb21a83c6)
 
 ---
 
@@ -43,6 +43,46 @@ https://github.com/user-attachments/assets/900fe0c4-df2b-4f5f-a08e-3b2cb21a83c6
 - Tools: Flutter SDK 3.10+, Dart 3.0+
 - Editor: Recommended: VS Code or Android Studio
 - Internet Connection: Not required for basic gameplay
+
+---
+
+## 📥 Installing or Cloning the Repository
+
+To install and run the Flutter JokenPo app on your local machine, follow these steps:
+
+### Clone the Repository
+
+``` bash
+git clone https://github.com/your-username/flutter-jokenpo.git
+```
+
+Move into the project directory:
+
+``` bash
+cd flutter-jokenpo
+```
+
+### Install Dependencies
+Run the following command to fetch the required dependencies:
+
+``` bash
+flutter pub get
+```
+
+### Run the App
+For Android:
+
+``` bash
+flutter run
+```
+
+For Web:
+
+``` bash
+flutter run -d chrome
+```
+
+Make sure you have an emulator running or a physical device connected before executing the commands.
 
 ---
 
