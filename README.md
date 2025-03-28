@@ -23,8 +23,12 @@ The primary goal of Flutter JokenPo is to provide a fun and engaging game experi
   <img src="Flutter-JokenPo/images/darkMode.png" width="250">
 </p>
 
-### Watch the Application in Action:
-[Click here to watch the video](https://github.com/user-attachments/assets/900fe0c4-df2b-4f5f-a08e-3b2cb21a83c6)
+<p style="text-align: center;">
+    <a href="https://github.com/user-attachments/assets/900fe0c4-df2b-4f5f-a08e-3b2cb21a83c6">
+        🎥 Watch the Application in Action
+    </a>
+</p>
+
 
 ---
 
