@@ -4,7 +4,6 @@
 Flutter JokenPo is an interactive and lightweight mobile game developed with Flutter, inspired by the classic Rock, Paper, Scissors game. The application provides a seamless user experience with a clean UI, randomized AI-based gameplay, and smooth animations.
 
 Key Features:
-
 - Real-Time Game Logic: Implements real-time game mechanics, instantly determining the winner after each move.
 - Randomized AI Opponent: Uses Dart’s Random() class to simulate unpredictable computer-generated moves.
 - Smooth UI/UX: Built with Flutter’s Material Design, ensuring a modern and responsive interface.
@@ -14,6 +13,7 @@ Key Features:
 
 The primary goal of Flutter JokenPo is to provide a fun and engaging game experience while exploring Flutter's core functionalities like state management, randomization, and responsive UI design.
 
+---
 
 ## 🖼 Light Mode & Dark Mode Screenshots
 
@@ -23,6 +23,10 @@ The primary goal of Flutter JokenPo is to provide a fun and engaging game experi
   <img src="Flutter-JokenPo/images/darkMode.png" width="250">
 </p>
 
+### Watch the Application in Action:
+https://github.com/user-attachments/assets/900fe0c4-df2b-4f5f-a08e-3b2cb21a83c6
+
+---
 
 ## 🛠 Technologies Used
 - Language: Dart
@@ -32,11 +36,15 @@ The primary goal of Flutter JokenPo is to provide a fun and engaging game experi
 - Randomization: Dart’s built-in Random() class for AI opponent moves
 - Device Compatibility: Android, iOS, and Web
 
+---
+
 ## 📋 Requirements
 - Platform: Android 5.0+ / iOS 12+ / Web
 - Tools: Flutter SDK 3.10+, Dart 3.0+
 - Editor: Recommended: VS Code or Android Studio
 - Internet Connection: Not required for basic gameplay
+
+---
 
 ## 🎯 Learning Objectives
 During the development of Flutter JokenPo, several technical concepts were implemented and enhanced, including:
